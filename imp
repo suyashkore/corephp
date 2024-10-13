@@ -1,0 +1,4 @@
+mail : composer require phpmailer/phpmailer
+barcode : composer require picqer/php-barcode-generator
+qrcode : composer require endroid/qr-code
+xlsx upload : composer require phpoffice/phpspreadsheet
